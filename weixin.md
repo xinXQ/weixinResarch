@@ -87,7 +87,7 @@ __企业展示项目的核心 `企业信息展示`, `企业和潜在客户的交
 ---
 ### 餐饮小程序的功能总结
 #### 餐饮总体设计
-<img src="http://www.cdgx.cn/wp-content/uploads/2018/05/13.png" width="550">
+<img src="./picture/餐饮架构.jpg" width="550">
 ---
 #### 餐饮的消费逻辑
 <img src="./picture/餐饮流程.jpg" width="800">
@@ -132,7 +132,7 @@ __一些个性化的管理服务,比如多店铺的,店铺信息,区域信息. �
 
 
 #### 四大开发框架比较
-<img src="https://upload-images.jianshu.io/upload_images/5328791-484e3d772e6c2641.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp" width="550">
+<img src="./picture/框架比较.jpg" width="550">
 ---
 
 ## 总结
